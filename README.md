@@ -10,3 +10,5 @@ ex: node ./directory index.js
                   -> global: nodejs 
 
     globalThis es el padre de muchas funciones como console.log
+
+    2. 
