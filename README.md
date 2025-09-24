@@ -11,4 +11,4 @@ ex: node ./directory index.js
 
     globalThis es el padre de muchas funciones como console.log
 
-    2. 
+    2. Si en un archivo exportas una función
